@@ -1,0 +1,21 @@
+{
+  "title": "My Favorite Games",
+  "author": "Rika",
+  "games": [
+    {
+      "name": "Spirit’s Rest",
+      "genre": "Simulator",
+      "progress": "In Development"
+    },
+    {
+      "name": "Through the Woods",
+      "genre": "Puzzle Platformer",
+      "progress": "Prototype"
+    },
+    {
+      "name": "Reikiban",
+      "genre": "Board Game Sandbox",
+      "progress": "Early Access"
+    }
+  ]
+}
